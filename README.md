@@ -2,8 +2,6 @@
 
 As a key contributor to a comprehensive project, I leveraged advanced machine learning models, including Boosted Trees (BT), Random Forest (RF), Decision Trees (DT), among others, to predict a crucial target variable within the "Medical Treatment Dataset." This dataset, encompassing diverse medical parameters, served as the foundation for developing predictive models aimed at understanding and forecasting treatment outcomes.
 
-Professional Accomplishments:
-
 Model Selection and Implementation:
 
 Applied state-of-the-art machine learning models, including Boosted Trees, Random Forest, and Decision Trees, to effectively analyze the "Medical Treatment Dataset."
